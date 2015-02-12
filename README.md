@@ -1,2 +1,2 @@
 # teste
-Tutorial
+Tutorial - exercicio sobre Git/Github
